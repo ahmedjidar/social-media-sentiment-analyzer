@@ -6,6 +6,8 @@
 
 > Cognitive Community Analysis Suite
 
+> ⚠️ Reddit API is unstable, App may not function as desired :(
+
 [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://sentinelsift.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-22d3ee?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 [![Neuro](https://img.shields.io/badge/Powered_by-Neuro_Symbolic_AI-34d399?style=for-the-badge&logo=openai)](https://openai.com)
